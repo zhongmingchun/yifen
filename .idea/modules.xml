@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yifen.iml" filepath="$PROJECT_DIR$/yifen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yifen-admin/yifen-admin.iml" filepath="$PROJECT_DIR$/../yifen-admin/yifen-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yifen-app/yifen-app.iml" filepath="$PROJECT_DIR$/../yifen-app/yifen-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yifen-core/yifen-core.iml" filepath="$PROJECT_DIR$/../yifen-core/yifen-core.iml" />
+    </modules>
+  </component>
+</project>
